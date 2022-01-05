@@ -11,6 +11,9 @@ h1{
     text-align: center;
 }
 
+header{
+    margin-bottom: 100px;
+}
 .header-part{
     display: flex;
 }
@@ -39,4 +42,39 @@ h1{
     border-radius: 5px;
     padding: 10px 40px;
     font-weight: 700;
+}
+.division{
+    display: flex;
+    justify-content: space-between;
+}
+.division1{
+    display: flex;
+    justify-content: space-between;
+}
+.div1{
+    width: 250px;
+    border: 2px solid grey;
+}
+.div1 img{
+    width: 100%;
+}
+.division-color{
+    text-align: center;
+    color: orange;
+}
+.div1 p{
+    text-align: justify;
+}
+footer{
+    
+}
+footer p{
+    color: rgb(133, 4, 4);
+    text-align: center;
+}
+
+
+.more a{
+text-decoration: none;
+
 }
